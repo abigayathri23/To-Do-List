@@ -11,9 +11,12 @@ Responsive design for desktop and mobile devices.
 bash
 Copy code
 .
-├── index.html    # Main HTML file
-├── style.css     # Styles for the app
-└── script.js     # JavaScript functionality
+├── index.html   
+# Main HTML file
+├── style.css    
+# Styles for the app
+└── script.js    
+# JavaScript functionality
 ## 📸 Screenshots
 
 
